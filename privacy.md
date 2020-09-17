@@ -1,3 +1,13 @@
+# DYMO Print Add-on
+
+## [User Guide](https://szzsa.github.io/dymo-print/guide)
+
+## [Terms](https://szzsa.github.io/dymo-print/terms)
+
+## [Privacy Policy](https://szzsa.github.io/dymo-print/privacy)
+
+## [Support](https://szzsa.github.io/dymo-print/support)
+
 # Privacy Policy of DYMO Print add-on
 szzsa operates the DYMO Print add-on, which provides the FUNCTIONALITY.
 This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the DYMO Print add-on.
