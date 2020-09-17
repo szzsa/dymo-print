@@ -4,7 +4,7 @@ ________________________________________
 
 Last updated: 17.09.2020 
 
-Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the DYMO Print Add-on operated by Zsigmond-Attila Szasz ("us", "we", or "our").
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the DYMO Print Add-on operated by szzsa ("us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all users and others who access or use the Service.
 
