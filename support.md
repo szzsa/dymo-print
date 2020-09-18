@@ -1,4 +1,6 @@
-# DYMO Print Add-on
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head># DYMO Print Add-on
 
 ## [User Guide](https://szzsa.github.io/dymo-print/guide)
 
