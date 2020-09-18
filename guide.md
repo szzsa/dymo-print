@@ -22,4 +22,4 @@ ______________________________________
 - Copy label file content (XML) to A1 cell in a new sheet called "Design"
 
 ## Add Reference Names
-- Add a row to the top of your spreadsheet which contains label reference names for each column you want to print. You can leave the cell empty for the columns which are not relevant from the label.
+- Add a row to the top of your spreadsheet which contains label reference names for each column you want to print. You can leave the cell empty for the columns which are not relevant for the label.
