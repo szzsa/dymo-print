@@ -32,6 +32,6 @@ We have no control over, and assumes no responsibility for, the content, privacy
 
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time.
 
-Contact Us
+### Contact Us
 
 If you have any questions about these Terms, please contact us.
