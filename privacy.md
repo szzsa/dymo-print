@@ -1,16 +1,12 @@
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-</head># DYMO Print Add-on
+# DYMO Print Add-on
 
+## [Home](https://szzsa.github.io/dymo-print)
 ## [User Guide](https://szzsa.github.io/dymo-print/guide)
-
 ## [Terms](https://szzsa.github.io/dymo-print/terms)
-
 ## [Privacy Policy](https://szzsa.github.io/dymo-print/privacy)
-
 ## [Support](https://szzsa.github.io/dymo-print/support)
-
-# Privacy Policy of DYMO Print add-on
+______________________________________
+# Privacy Policy
 szzsa operates the DYMO Print add-on, which provides the FUNCTIONALITY.
 This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the DYMO Print add-on.
 If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
