@@ -8,4 +8,4 @@
 ______________________________________
 # Home
 
-Welcome to DYMO Print Add-on website
+DYMO Print Add-on provides easy to use menu item in Google Sheets which helps to print the selected rows to a Dymo printer.
