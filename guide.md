@@ -22,4 +22,10 @@ ______________________________________
 - Copy label file content (XML) to A1 cell in a new sheet called "Design"
 
 ## Add Reference Names
-- Add a row to the top of your spreadsheet which contains label reference names for each column you want to print. You can leave the cell empty for the columns which are not relevant for the label.
+- Add a row to the top of your spreadsheet which contains label reference names for each column you want to print. You can leave the cell empty for the columns which are not relevant for the label
+
+## Select Rows
+- select the rows you want to print (sepparate label will be printed for each row)
+
+## Print
+- Select from menu "Add-ons" -> "DYMO Print" -> "Print"
